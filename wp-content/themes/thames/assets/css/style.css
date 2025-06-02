@@ -39,7 +39,7 @@
 
 /* common css */
 :root {
-  --main-color: #447CF4;
+  --main-color: #80db66;
   --theme-clr-1: #25262f;
   --theme-clr-2: #e2ecf6;
   --text-color: #4d4d5c;
@@ -1000,7 +1000,7 @@ span#main {
   min-height: 200px;
 }
 .contact-form .form-message.success {
-  color: #447CF4;
+  color: green;
 }
 .contact-form .form-message.error {
   color: red;
