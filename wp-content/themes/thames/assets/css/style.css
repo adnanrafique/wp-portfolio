@@ -563,6 +563,7 @@ span#main {
 }
 .slider-img {
   margin-right: -50px;
+  margin-bottom: 80px;
 }
 /* heartbeat scale effects*/
 .slider-img::before {
